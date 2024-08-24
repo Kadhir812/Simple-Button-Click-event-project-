@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 40px;
+}
+
+#text{
+    border-radius: 20px;
+}
+
+#kolor{
+    border-radius: 20px;
+}
